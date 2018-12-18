@@ -1,0 +1,12 @@
+{
+  "id": "DPKN74YF2P2T9",
+  "promoType": "",
+  "allowWebCheckout": true,
+  "promoName": "",
+  "promoValue": 100,
+  "promoId": "4000000001",
+  "param": {
+    "value": "500.00",
+    "key": "DISCOUNT"
+  }
+}
